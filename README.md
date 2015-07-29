@@ -1,9 +1,4 @@
----
-tags: html, kids
-languages: html
-level: 1
-type: todo
----
+
 
 ## Just a little bit to get your day started...
 
