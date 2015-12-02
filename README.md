@@ -17,3 +17,4 @@ Let's practice some HTML! You're going to code the HTML for a website about your
 ***BONUS***
 
 See if you can embed a video for each movie of the movie trailer.
+<a href='https://learn.co/lessons/hs-html-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
